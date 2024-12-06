@@ -97,6 +97,7 @@ console.log(orangutan.isAdult())
 console.log(tiger.isAdult())
 console.log("Hello World")
 console.log(elephant.isAdult())
+console.log(elephant.getAge)
 
 
 
