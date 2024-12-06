@@ -95,11 +95,7 @@ const orangutan = new Mammal('orangutan', 'omnivore', 80, true, 21);
 // console.log(elephant.food)
 console.log(orangutan.isAdult())
 console.log(tiger.isAdult())
-console.log("Hello World")
-console.log(elephant.isAdult())
-console.log(elephant.getAge)
-console.log(orangutan.name)
-console.log(elephant.breath)
+
 
 
 
